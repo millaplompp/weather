@@ -105,6 +105,10 @@ body {
         width: 20px; 
      }
 
+    .col {
+        padding-bottom: 40px;
+    }
+
     .col img {
         width: 30px;
     }
@@ -112,6 +116,7 @@ body {
     .humidity, .wind {
         font-size: 20px;
         margin-top: -6px;
+        
     }
 
     .search input {
@@ -137,4 +142,9 @@ body {
         width: 60px;
         height: 60px;
     }
+    
+}
+
+.weather {
+    display: none;
 }
