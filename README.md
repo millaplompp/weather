@@ -1,4 +1,6 @@
 # weather
  
 Using a weather API for study.
-In this project HTML, CSS & JS are used. 
+Project made with HTML, CSS & JS. 
+
+OpenWeather is the used API
